@@ -6,7 +6,7 @@ A graphics engine that can draw and transform 3D shapes given in matrix form in 
 Input a 3D shape in matrix form, select which faces are used and set the transformation.
 If the camera is facing at the shape then the window will depict the shape transforming indefinately
 
-Examples are given in the Main class that can be run immediately
+Examples are given in the Main class that can be run immediately (only works in Java 9)
 
 ## Overview of Classes
 
